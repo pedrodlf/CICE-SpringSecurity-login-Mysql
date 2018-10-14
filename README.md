@@ -5,6 +5,8 @@ Preconditions
 
 Install lombok on Eclipse/IntelliJ
 
+https://projectlombok.org/
+
 RUN
 
 mvn clean
