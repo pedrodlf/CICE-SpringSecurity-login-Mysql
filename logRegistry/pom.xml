@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.cice.spring.security.mysql</groupId>
-	<artifactId>login</artifactId>
+	<artifactId>logRegistry</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>login</name>
+	<name>logRegistry</name>
 	<description>implementar un proceso de inicio de sesión utilizando la siguiente pila de tecnología:  Bota de primavera (2.0.4) Seguridad de primavera Primavera MVC JPA Thymeleaf Lombok MySQL Bootstrap (Presentación UI) Maven Eclipse / IntelliJ Java 8 Embalaje (JAR)</description>
 
 	<parent>

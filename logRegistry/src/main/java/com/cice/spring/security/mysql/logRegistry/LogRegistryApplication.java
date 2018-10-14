@@ -1,12 +1,12 @@
-package com.cice.spring.security.mysql.login;
+package com.cice.spring.security.mysql.logRegistry;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class LoginApplication {
+public class LogRegistryApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(LoginApplication.class, args);
+		SpringApplication.run(LogRegistryApplication.class, args);
 	}
 }

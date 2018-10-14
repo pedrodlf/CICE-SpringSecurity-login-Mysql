@@ -1,4 +1,4 @@
-package com.cice.spring.security.mysql.login;
+package com.cice.spring.security.mysql.logRegistry;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class LoginApplicationTests {
+public class LogRegistryApplicationTests {
 
 	@Test
 	public void contextLoads() {
