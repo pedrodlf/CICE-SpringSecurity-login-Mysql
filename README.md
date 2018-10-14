@@ -7,6 +7,8 @@ Install lombok on Eclipse/IntelliJ
 
 https://projectlombok.org/
 
+Leer Wiki
+
 RUN
 
 mvn clean
