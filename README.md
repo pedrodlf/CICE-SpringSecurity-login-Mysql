@@ -5,8 +5,9 @@
 RUN
 
 mvn clean
-mvn clean install
-Go to the target folder
-java -jar login-0.0.1-SNAPSHOT.jar
+
+mvn spring-boot:run
+
 http://localhost:8080/registration
+
 http://localhost:8080/login
