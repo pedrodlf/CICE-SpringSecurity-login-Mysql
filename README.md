@@ -1,2 +1,12 @@
 # CICE-SpringSecurity-login-Mysql
- 243/5000 Este tutorial le mostrará cómo implementar un proceso de inicio de sesión utilizando el siguiente Stack:  Bota de primavera (2.0.4) Seguridad de primavera Primavera MVC JPA Thymeleaf Lombok MySQL Bootstrap (Presentación UI) Maven Eclipse / IntelliJ Java 8 Embalaje (JAR)
+ 243/5000 Este tutorial le mostrará cómo implementar un proceso de inicio de sesión utilizando el siguiente Stack:  Bota de primavera (2.0.4)Spring Security MVC JPA Thymeleaf Lombok MySQL Bootstrap (Presentación UI) Maven Eclipse / IntelliJ Java 8 Embalaje (JAR)
+
+
+RUN
+
+mvn clean
+mvn clean install
+Go to the target folder
+java -jar login-0.0.1-SNAPSHOT.jar
+http://localhost:8080/registration
+http://localhost:8080/login
